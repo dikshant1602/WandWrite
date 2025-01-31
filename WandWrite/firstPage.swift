@@ -3,7 +3,7 @@ import SwiftUI
 struct WandwriteWelcomeView: View {
     @State private var isSignIn = false // State to manage Sign In or Sign Up
     @State private var isNavigating = false // State to trigger navigation
-
+//hello
     var body: some View {
         NavigationView {
             ZStack {
